@@ -1,6 +1,6 @@
 # Vishal_Portfolio
 
-###Education
+### Education
 St.Sebastians COllege
 test
 test
